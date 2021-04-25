@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/abhinavs476/count.svg)
 
 <!--
 **Abhinavs476/Abhinavs476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
